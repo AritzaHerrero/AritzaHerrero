@@ -32,6 +32,6 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos en los que he tra
 ---
 
 ### 📫 ¡Conéctate conmigo!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/aritza-herrero-ni%C3%B1o-79a69a24b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritza-herrero-ni%C3%B1o-79a69a24b/)
 
 ✨ ¡Gracias por visitar mi perfil! ✨
